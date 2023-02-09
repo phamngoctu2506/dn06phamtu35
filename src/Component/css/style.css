@@ -8,7 +8,7 @@
     padding-top: 30px;
   }
   .pageContainer{
-    background-image: url('../../../public/image/bgmovie.jpg');
+    background-image: url('../../../src/image/bgmovie.jpg');
     background-size: cover;
     background-attachment: fixed;
     position: relative;
