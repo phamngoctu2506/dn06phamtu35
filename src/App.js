@@ -1,11 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import SeatSelection from './Component/SeatSelection';
 
 function App() {
   return (
-    <div className="App">
-
-    </div>
+    <SeatSelection/>
   );
 }
 
